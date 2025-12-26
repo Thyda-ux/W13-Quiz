@@ -1,6 +1,5 @@
 import 'dart:ui';
  
-
 class Grocery {
   const Grocery({
     required this.id,
